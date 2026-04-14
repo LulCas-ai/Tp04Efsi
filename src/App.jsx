@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
-import ComponenteCrearCita from "./CrearCita";
+import FormCita from "./CrearCita";
 import Listado from './Listado'
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
   return (
     <>
 
-      <ComponenteCrearCita />
+      <FormCita />
       <Listado/>
 
       

@@ -2,7 +2,7 @@ function AdministrarCita(){
     return (
 
         <div class="cita">
-                    <h2/>Administra tus citas
+                <h2/>Administra tus citas
               <p/>Mascota: <span/>Sifon
               <p/>Dueño: <span/>Flecha
               <p/>Fecha: <span/>2023-08-05
